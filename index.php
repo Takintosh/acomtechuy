@@ -21,9 +21,10 @@
 -->
 <?php require_once 'config/seoconfig.php' ?>
 
+
 <!-- HTML Structure -->
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <!-- Head -->
 <?php include 'includes/head.php' ?>

@@ -204,9 +204,7 @@
                                     <div class="col-lg-4">
                                         <i class="fas fa-fast-forward"></i><br>
                                         <h3>Rendimiento Optimizado</h3><br>
-                                        <p>Desarrollamos aplicaciones nativas, gracias a la combinación de
-                                            tecnología
-                                            nativa y web.</p>
+                                        <p>Desarrollamos Aplicaciones livianas y rápidas.</p>
                                     </div>
                                 </div>
                             </div>
