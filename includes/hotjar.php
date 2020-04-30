@@ -1,5 +1,5 @@
 <!-- Hotjar Tracking Code for acomtech.uy -->
-<script async>
+<script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
         h._hjSettings={hjid:1093323,hjsv:6};
