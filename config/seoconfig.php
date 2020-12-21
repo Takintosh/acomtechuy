@@ -75,10 +75,8 @@
 			break;
 
 		default:
-			#As default, we call the 404 page. So every URL that doesn't match with the site routes redirects to a 404 page.
-			$CURRENT_PAGE = "404";
-			$PAGE_FILE = "404.php";
-			$PAGE_TITLE = "ACOM Tech-Solutions | Error 404";
+			header("Location: $ROUTE_INICIO", true, 301);
+			exit();
 			break;
 			
 	}
